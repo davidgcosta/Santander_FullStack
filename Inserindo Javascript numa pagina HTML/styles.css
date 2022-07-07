@@ -1,0 +1,9 @@
+body{
+    color: grey;
+    background-color: yellowgreen;
+}
+
+section{
+    display: block;
+    align-items: center;
+}
